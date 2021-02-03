@@ -28,3 +28,5 @@
 ## E08_아이유 팬이 좋아할 만한 다른 아티스트 찾기 (21.02.02)
 
 ## E09_나의 첫 번째 캐글 경진대회, 무작정 따라해보기 (21.02.04)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinest-changwon%2FAIFFEL_Exploration&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
