@@ -26,6 +26,7 @@
 * [이미지 임베딩](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E07_Face_Recognition/%5BE07%5DFace_Recognition.ipynb)
 
 ## E08_아이유 팬이 좋아할 만한 다른 아티스트 찾기 (21.02.02)
+* [https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E08_Recommendation_System/%5BE08%5DRecommendation_System.ipynb))
 
 ## E09_나의 첫 번째 캐글 경진대회, 무작정 따라해보기 (21.02.04)
 
