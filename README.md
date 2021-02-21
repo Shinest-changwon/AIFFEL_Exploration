@@ -32,6 +32,6 @@
 * [부동산 가격 예측_캐글](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E09_My_First_Kaggle/%5BE09%5DMy_First_Kaggle.ipynb)
 
 ## E10_인물 모드 사진 만들기 (21.02.16)
-* 
+* [이미지 세그멘테이션](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E10_Image_Semantic_Segmentation/%5BE10%5DImage_Semantic_Segmentation.ipynb)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinest-changwon%2FAIFFEL_Exploration&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
