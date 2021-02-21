@@ -29,5 +29,9 @@
 * [영화 추천 시스템](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E08_Recommendation_System/%5BE08%5DRecommendation_System.ipynb)
 
 ## E09_나의 첫 번째 캐글 경진대회, 무작정 따라해보기 (21.02.04)
+* [부동산 가격 예측_캐글](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E09_My_First_Kaggle/%5BE09%5DMy_First_Kaggle.ipynb)
+
+## E10_인물 모드 사진 만들기 (21.02.16)
+* 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinest-changwon%2FAIFFEL_Exploration&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
