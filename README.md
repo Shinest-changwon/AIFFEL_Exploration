@@ -34,4 +34,7 @@
 ## E10_인물 모드 사진 만들기 (21.02.16)
 * [이미지 세그멘테이션](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E10_Image_Semantic_Segmentation/%5BE10%5DImage_Semantic_Segmentation.ipynb)
 
+## E11_뉴스 요약봇 만들기 (21.02.18)
+* [뉴스 요약봇](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E11_News_Summarization/%5BE11%5DNews_Summarization.ipynb)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinest-changwon%2FAIFFEL_Exploration&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
