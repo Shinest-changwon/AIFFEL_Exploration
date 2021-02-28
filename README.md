@@ -37,4 +37,9 @@
 ## E11_뉴스 요약봇 만들기 (21.02.18)
 * [뉴스 요약봇](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E11_News_Summarization/%5BE11%5DNews_Summarization.ipynb)
 
+## E12_DCGAN (21.02.23)
+
+## E13_주식 예측하기 (21.02.25)
+* [](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E13_Stock_Prediction/%5BE13%5DStock_Prediction.ipynb)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinest-changwon%2FAIFFEL_Exploration&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
