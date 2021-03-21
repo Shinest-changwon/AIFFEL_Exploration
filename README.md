@@ -49,7 +49,8 @@
 ## E15_트랜스포머를 활용한 챗봇 (21.03.04)
 * [트랜스포머 챗봇](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E15_Transformer_Chatbot/%5BE15%5DTransformer_Chatbot.ipynb)
 
-## E16
+## E16_SRGAN (21.03.09)
+* [SRGAN](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E16_SRCNN_SRGAN/%5BE16%5DSRCNN_SRGAN.ipynb)
 
 ## E17
 
