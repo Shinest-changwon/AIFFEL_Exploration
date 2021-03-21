@@ -49,4 +49,11 @@
 ## E15_트랜스포머를 활용한 챗봇 (21.03.04)
 * [트랜스포머 챗봇](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E15_Transformer_Chatbot/%5BE15%5DTransformer_Chatbot.ipynb)
 
+## E16
+
+## E17
+
+## E18_OCR (21.03.16)
+* [OCR](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E18_OCR/%5BE18%5DOCR.ipynb)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinest-changwon%2FAIFFEL_Exploration&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
