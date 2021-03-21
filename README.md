@@ -52,7 +52,8 @@
 ## E16_SRGAN (21.03.09)
 * [SRGAN](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E16_SRCNN_SRGAN/%5BE16%5DSRCNN_SRGAN.ipynb)
 
-## E17
+## E17_Movie_Prediction_Session (21.03.11)
+* [Movie_Prediction_Session](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E17_Movie_Prediction/%5BE17%5DMovie_Prediction.ipynb)
 
 ## E18_OCR (21.03.16)
 * [OCR](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E18_OCR/%5BE18%5DOCR.ipynb)
