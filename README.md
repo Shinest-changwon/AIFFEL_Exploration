@@ -62,6 +62,6 @@
 * [BERT를 이용한 영화리뷰 감성분석](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E19_BERT/%5BE19%5DBERT.ipynb)
 
 ## E20_cGAN을 이용해 pix2pix구현 (21.03.23)
-* [](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E20_cGAN/%5BE20%5DcGAN.ipynb)
+* [pix2pix](https://github.com/Shinest-changwon/AIFFEL_Exploration/blob/master/E20_cGAN/%5BE20%5DcGAN.ipynb)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinest-changwon%2FAIFFEL_Exploration&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
